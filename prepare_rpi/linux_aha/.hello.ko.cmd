@@ -1,0 +1,1 @@
+cmd_/home/anjali/prepare_rpi/linux_aha/hello.ko := arm-linux-gnueabihf-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/anjali/prepare_rpi/linux_aha/hello.ko /home/anjali/prepare_rpi/linux_aha/hello.o /home/anjali/prepare_rpi/linux_aha/hello.mod.o ;  true

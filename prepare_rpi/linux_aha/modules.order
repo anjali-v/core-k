@@ -1,0 +1,6 @@
+kernel//home/anjali/prepare_rpi/linux_aha/hello.ko
+kernel//home/anjali/prepare_rpi/linux_aha/data_getter.ko
+kernel//home/anjali/prepare_rpi/linux_aha/proc_rw.ko
+kernel//home/anjali/prepare_rpi/linux_aha/spi-bcm2835-hrt.ko
+kernel//home/anjali/prepare_rpi/linux_aha/i2c-bcm2835-hrt.ko
+kernel//home/anjali/prepare_rpi/linux_aha/spi-bcm2835aux-hrt.ko

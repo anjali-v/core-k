@@ -1,0 +1,4 @@
+syntax on
+colorscheme industry
+set ts=4
+set number

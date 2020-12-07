@@ -1,0 +1,1 @@
+cmd_/home/anjali/prepare_rpi/linux_aha/proc_rw.ko := arm-linux-gnueabihf-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/anjali/prepare_rpi/linux_aha/proc_rw.ko /home/anjali/prepare_rpi/linux_aha/proc_rw.o /home/anjali/prepare_rpi/linux_aha/proc_rw.mod.o ;  true

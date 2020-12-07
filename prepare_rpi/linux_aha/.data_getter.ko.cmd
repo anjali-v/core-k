@@ -1,0 +1,1 @@
+cmd_/home/anjali/prepare_rpi/linux_aha/data_getter.ko := arm-linux-gnueabihf-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/anjali/prepare_rpi/linux_aha/data_getter.ko /home/anjali/prepare_rpi/linux_aha/data_getter.o /home/anjali/prepare_rpi/linux_aha/data_getter.mod.o ;  true

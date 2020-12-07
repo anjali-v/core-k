@@ -1,0 +1,1 @@
+cmd_/home/anjali/prepare_rpi/linux_aha/i2c-bcm2835-hrt.ko := arm-linux-gnueabihf-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/anjali/prepare_rpi/linux_aha/i2c-bcm2835-hrt.ko /home/anjali/prepare_rpi/linux_aha/i2c-bcm2835-hrt.o /home/anjali/prepare_rpi/linux_aha/i2c-bcm2835-hrt.mod.o ;  true
